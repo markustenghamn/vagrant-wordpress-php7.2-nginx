@@ -1,0 +1,5 @@
+.vagrant
+.idea
+wordpress/
+!wordpress/50x.html
+!wordpress/index.html
